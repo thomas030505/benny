@@ -6,9 +6,14 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "extract": "tsx scripts/extract.ts",
+    "eval": "tsx --env-file=.env.local scripts/eval.ts",
+    "test:limits": "RATE_PER_HOUR=1 tsx --env-file=.env.local scripts/test-limits.ts hour && RATE_PER_DAY=0 tsx --env-file=.env.local scripts/test-limits.ts day && DAILY_CAP=0 tsx --env-file=.env.local scripts/test-limits.ts cap"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^1.8.0",
+    "@upstash/redis": "^1.41.0",
     "next": "16.4.6",
     "react": "19.3.0",
     "react-dom": "19.3.0"
@@ -19,6 +24,8 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.4.6",
+    "pdfjs-dist": "^6.5.438",
+    "tsx": "^4.23.15",
     "typescript": "^5"
   }
 }

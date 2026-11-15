@@ -1,0 +1,219 @@
+{
+  "model": "claude-sonnet-5-5",
+  "ranAt": "2026-11-15T14:48:25.195Z",
+  "score": 12,
+  "sourceScore": 12,
+  "total": 12,
+  "results": [
+    {
+      "id": 1,
+      "q": "Hvor stor skal sansehagen være?",
+      "expected": "Minimum 750 m²",
+      "trap": false,
+      "answer": "Planbestemmelsene krever at minimum 750 m2 settes av til sansehage for helse- og velferdssenteret på bakkeplan [Planbestemmelser s. 4]. Jeg finner ikke et endelig, vedtatt areal utover dette minimumskravet.",
+      "citations": [
+        {
+          "t": "Planbestemmelser",
+          "p": 4
+        }
+      ],
+      "correct": true,
+      "sourceOk": true,
+      "ms": 2394
+    },
+    {
+      "id": 2,
+      "q": "Hvor mange offentlige parkeringsplasser tillates totalt?",
+      "expected": "Maksimalt 119",
+      "trap": false,
+      "answer": "Planen tillater maksimalt 119 offentlige parkeringsplasser totalt [Planbestemmelser s. 3]. Det er en reduksjon fra 161 offentlige plasser i planområdet i dag [Planbeskrivelse s. 29].",
+      "citations": [
+        {
+          "t": "Planbestemmelser",
+          "p": 3
+        },
+        {
+          "t": "Planbeskrivelse",
+          "p": 29
+        }
+      ],
+      "correct": true,
+      "sourceOk": true,
+      "ms": 1881
+    },
+    {
+      "id": 3,
+      "q": "Hvor mange plasser får helse- og velferdssenteret?",
+      "expected": "72 plasser",
+      "trap": false,
+      "answer": "Senteret får 72 pasientrom [Pressemelding oktober s. 1]. Planbeskrivelsen regner også med et sykehjem på 72 plasser [Planbeskrivelse s. 29]. Hvis du mener parkeringsplasser, tillates 92 i parkeringskjeller under senteret og biblioteket [Planbestemmelser s. 3].",
+      "citations": [
+        {
+          "t": "Pressemelding oktober",
+          "p": 1
+        },
+        {
+          "t": "Planbeskrivelse",
+          "p": 29
+        },
+        {
+          "t": "Planbestemmelser",
+          "p": 3
+        }
+      ],
+      "correct": true,
+      "sourceOk": true,
+      "ms": 2330
+    },
+    {
+      "id": 4,
+      "q": "Hva er maksimalt bebygd areal (BYA) for tjenesteyting?",
+      "expected": "3700 m²",
+      "trap": false,
+      "answer": "Maksimalt bebygd areal (BYA) for tjenesteyting er 3700 m2, og det omfatter bygninger og parkering for bil og sykkel [Planbestemmelser s. 4]. Av dette skal minimum 750 m2 settes av til sansehage på bakkeplan [Planbestemmelser s. 4].",
+      "citations": [
+        {
+          "t": "Planbestemmelser",
+          "p": 4
+        }
+      ],
+      "correct": true,
+      "sourceOk": true,
+      "ms": 1926
+    },
+    {
+      "id": 5,
+      "q": "Hvilket støynivå gjelder for sansehagen?",
+      "expected": "Lden ≤ 50 dB",
+      "trap": false,
+      "answer": "For sansehagen tilknyttet helsebygget skal støynivået være Lden ≤ 50 dB [Planbestemmelser s. 4]. Støyberegningene viser at sansehagen ligger under 50 dB Lden [Støyvurdering s. 14].",
+      "citations": [
+        {
+          "t": "Planbestemmelser",
+          "p": 4
+        },
+        {
+          "t": "Støyvurdering",
+          "p": 14
+        }
+      ],
+      "correct": true,
+      "sourceOk": true,
+      "ms": 2052
+    },
+    {
+      "id": 6,
+      "q": "Hvor bred kan kulverten være?",
+      "expected": "Maksimum 8 meter",
+      "trap": false,
+      "answer": "Kulverten, som tillates mellom o_PH og gnr/bnr 197/28 innenfor bestemmelsesområde #5, skal ha en maksimum bredde på 8 meter [Planbestemmelser s. 8].",
+      "citations": [
+        {
+          "t": "Planbestemmelser",
+          "p": 8
+        }
+      ],
+      "correct": true,
+      "sourceOk": true,
+      "ms": 1779
+    },
+    {
+      "id": 7,
+      "q": "Er det registrert kvikkleire i grunnen?",
+      "expected": "Nei, ikke registrert",
+      "trap": false,
+      "answer": "Nei, det er ikke registrert kvikkleire i grunnen [Planbeskrivelse s. 11]. Planområdet ligger heller ikke i registrert kvikkleiresone, og nærmeste sone, Heimdal 213, ligger omtrent 750 m unna og er et løsneområde med lav faregrad [Geoteknisk notat s. 6].",
+      "citations": [
+        {
+          "t": "Planbeskrivelse",
+          "p": 11
+        },
+        {
+          "t": "Geoteknisk notat",
+          "p": 6
+        }
+      ],
+      "correct": true,
+      "sourceOk": true,
+      "ms": 1501
+    },
+    {
+      "id": 8,
+      "q": "Når godkjente bystyret planen?",
+      "expected": "19.06.2025",
+      "trap": false,
+      "answer": "Bystyret godkjente detaljreguleringen 19.06.2025, og bestemmelsene ble oppdatert etter vedtaket 25.06.2025 [Planbestemmelser s. 1]. Vedtaket gjaldt alternativet med rundkjøring [Planbeskrivelse s. 1].",
+      "citations": [
+        {
+          "t": "Planbestemmelser",
+          "p": 1
+        },
+        {
+          "t": "Planbeskrivelse",
+          "p": 1
+        }
+      ],
+      "correct": true,
+      "sourceOk": true,
+      "ms": 1815
+    },
+    {
+      "id": 9,
+      "q": "Hva er kontraktsverdien for byggingen?",
+      "expected": "Om lag 450 millioner kroner ekskl. mva.",
+      "trap": false,
+      "answer": "Kontraktsverdien er om lag 450 millioner kroner ekskl. mva., etter at Betonmast Trøndelag og Trondheim kommune signerte totalentreprisekontrakt [Pressemelding oktober s. 1]. Det er nyeste kilde, og tallet er det samme som den forventede verdien i intensjonsavtalen i februar [Pressemelding februar s. 1].",
+      "citations": [
+        {
+          "t": "Pressemelding oktober",
+          "p": 1
+        },
+        {
+          "t": "Pressemelding februar",
+          "p": 1
+        }
+      ],
+      "correct": true,
+      "sourceOk": true,
+      "ms": 2376
+    },
+    {
+      "id": 10,
+      "q": "Hvilken entreprenør skal bygge senteret?",
+      "expected": "Betonmast Trøndelag",
+      "trap": false,
+      "answer": "Betonmast Trøndelag skal bygge senteret. De og Trondheim kommune har signert totalentreprisekontrakt, og prosjektet heter nå Heimdalstunet [Pressemelding oktober s. 1].",
+      "citations": [
+        {
+          "t": "Pressemelding oktober",
+          "p": 1
+        }
+      ],
+      "correct": true,
+      "sourceOk": true,
+      "ms": 1435
+    },
+    {
+      "id": 11,
+      "q": "Hva blir husleien for beboerne?",
+      "expected": "Finner ikke dette i dokumentene",
+      "trap": true,
+      "answer": "Finner ikke dette i dokumentene.",
+      "citations": [],
+      "correct": true,
+      "sourceOk": true,
+      "ms": 1749
+    },
+    {
+      "id": 12,
+      "q": "Hvilken leverandør skal levere heisene?",
+      "expected": "Finner ikke dette i dokumentene",
+      "trap": true,
+      "answer": "Finner ikke dette i dokumentene.",
+      "citations": [],
+      "correct": true,
+      "sourceOk": true,
+      "ms": 1879
+    }
+  ]
+}

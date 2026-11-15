@@ -1,0 +1,223 @@
+{
+  "model": "claude-opus-5-5",
+  "ranAt": "2026-11-15T11:04:13.869Z",
+  "requirements": [
+    {
+      "phase": "ramme",
+      "text": "Søknad om rammetillatelse skal ha med en miljøoppfølgingsplan som følger opp «Miljøkrav i byggeprosjekt», med ansvar, faser og metoder.",
+      "p": 5,
+      "quote": "Sammen med søknad om rammetillatelse skal det foreligge: a) en miljøoppfølgingsplan som redegjør for hvordan gjeldende miljømål og krav skal ivaretas"
+    },
+    {
+      "phase": "ramme",
+      "text": "Søknad om rammetillatelse skal ha med et klimagassbudsjett som viser prosentvis reduksjon sammenlignet med referanseprosjekt.",
+      "p": 5,
+      "quote": "b) et klimagassbudsjett som viser en prosentvis reduksjon sammenlignet med referanseprosjek."
+    },
+    {
+      "phase": "bruk",
+      "text": "Stengsel mot gjennomkjøring for privatbiler i o_BG2 skal være etablert før brukstillatelse for helse- og velferdssenteret.",
+      "p": 7,
+      "quote": "Stengselet skal være etablert før brukstillatelse for helse- og velferdssenteret kan gis."
+    },
+    {
+      "phase": "ig",
+      "text": "Plan for avfallsløsning skal være teknisk godkjent av kommunen før relevant igangsettingstillatelse.",
+      "p": 8,
+      "quote": "Teknisk godkjent plan for avfallsløsning skal foreligge før relevant igangsettingstillatelse gis."
+    },
+    {
+      "phase": "ig",
+      "text": "Teknisk plan for vann og avløp skal være godkjent av kommunen før relevant igangsettingstillatelse.",
+      "p": 8,
+      "quote": "Teknisk plan for vann og avløp skal godkjennes av kommunen før relevant igangsettingstillatelse gis."
+    },
+    {
+      "phase": "bruk",
+      "text": "Søknad om ferdigattest skal ha med sluttdokumentasjon for VA, inkludert åpne overvannstiltak, etter kommunens innmålingsveileder.",
+      "p": 8,
+      "quote": "Sammen med søknad om ferdigattest for tiltak innenfor planområdet, skal det innsendes sluttdokumentasjon for VA inklusive åpne overvannstiltak"
+    },
+    {
+      "phase": "ig",
+      "text": "Teknisk plan for offentlige samferdselsanlegg skal være godkjent av vegmyndigheten før relevant igangsettingstillatelse.",
+      "p": 8,
+      "quote": "Teknisk plan for offentlige samferdselsanlegg skal godkjennes av vegmyndigheten før relevant igangsettingstillatelse gis."
+    },
+    {
+      "phase": "ig",
+      "text": "Plan for torg T01 - T04 skal være teknisk godkjent av Trondheim kommune før relevant igangsettingstillatelse.",
+      "p": 8,
+      "quote": "Plan for torg T01 - T04 skal være teknisk godkjent av Trondheim kommune før relevant igangsettingstillatelse kan gis."
+    },
+    {
+      "phase": "ig",
+      "text": "Offentlig blå/grønn struktur skal være teknisk plangodkjent før relevant igangsettingstillatelse.",
+      "p": 8,
+      "quote": "Offentlig blå/grønn struktur skal teknisk plangodkjennes før relevant igangsettingstillatelse gis."
+    },
+    {
+      "phase": "ig",
+      "text": "Utomhusplanen til relevant igangsettingstillatelse skal vise terreng, trær, beplantning, overvann, belysning, parkering, avfallshåndtering, snølagring med mer.",
+      "p": 8,
+      "quote": "Til relevant igangsettingstillatelse skal planen vise eksisterende og planlagt terreng, trær, beplantning, overvann og grønne vegetasjonsflater"
+    },
+    {
+      "phase": "ig",
+      "text": "Geoteknisk prosjektering for aktuelle arbeider skal være ferdig før igangsettingstillatelse.",
+      "p": 9,
+      "quote": "Geoteknisk prosjektering for aktuelle arbeider skal være ferdig før igangsettingstillatelse gis."
+    },
+    {
+      "phase": "ramme",
+      "text": "Plan for kjørbar adkomst og oppstillingsplasser for utrykningskjøretøyer skal følge søknad om rammetillatelse.",
+      "p": 9,
+      "quote": "Plan for kjørbar adkomst og oppstillingsplasser for utrykningskjøretøyer fra brann- og redningstjenesten skal følge søknad om rammetillatelse."
+    },
+    {
+      "phase": "ig",
+      "text": "Plan for beskyttelse av omgivelsene mot støy og andre ulemper i bygge- og anleggsfasen skal foreligge før igangsettingstillatelse.",
+      "p": 9,
+      "quote": "Plan for beskyttelse av omgivelsene mot støy og andre ulemper i bygge- og anleggsfasen skal foreligge før igangsettingstillatelse kan gis."
+    },
+    {
+      "phase": "ig",
+      "text": "Nødvendige beskyttelsestiltak skal være etablert før bygge- og anleggsarbeidene settes i gang.",
+      "p": 9,
+      "quote": "Nødvendige beskyttelsestiltak skal være etablert før bygge- og anleggsarbeider kan igangsettes."
+    },
+    {
+      "phase": "anlegg",
+      "text": "I anleggsfasen skal luftkvalitets- og støygrenser i T-1520 og T-1442/2021 overholdes, inkludert grenseverdier i tabell 4 og 5.",
+      "p": 9,
+      "quote": "grenseverdier satt i tabell 4 og 5 i T-1442/2021 gjøres gjeldende."
+    },
+    {
+      "phase": "anlegg",
+      "text": "Det skal lages prognoser for støy til naboer i bygge- og anleggsfasen, og varslingsrutinene i T-1442/2021 skal følges.",
+      "p": 9,
+      "quote": "Det skal gjøres prognoser av forventet støy til naboer i bygge- og anleggsfasen i tråd med anbefalinger i T-1442/2021."
+    },
+    {
+      "phase": "anlegg",
+      "text": "God fremkommelighet for kollektivtrafikken skal sikres i anleggsfasen, med midlertidige løsninger avklart med AtB.",
+      "p": 9,
+      "quote": "God fremkommelighet for kollektivtrafikken skal ivaretas i anleggsfasen."
+    },
+    {
+      "phase": "anlegg",
+      "text": "Ringvålvegen 3-7 skal ha løsning for renovasjon og varelevering i byggeperioden.",
+      "p": 9,
+      "quote": "Ringvålvegen 3-7 skal sikres løsning for renovasjon og varelevering i byggeperioden."
+    },
+    {
+      "phase": "anlegg",
+      "text": "Midlertidig gangatkomst skal etableres og skiltes, være hinderfri med fast og jevnt dekke, og anleggsgjerder skal markeres for svaksynte.",
+      "p": 9,
+      "quote": "Midlertidig gangatkomst skal etableres og skiltes, være hinderfri og ha fast og jevnt dekke. Anleggsgjerder skal markeres synlig for svaksynte."
+    },
+    {
+      "phase": "ig",
+      "text": "Riggplan skal være godkjent av Trondheim kommune og beskyttelsestiltak etablert før igangsettingstillatelse.",
+      "p": 9,
+      "quote": "Riggplan skal være godkjent av Trondheim kommune og nødvendige beskyttelsestiltak være etablert før igangsettingstillatelse kan gis."
+    },
+    {
+      "phase": "anlegg",
+      "text": "FO1 og FO2 skal være opparbeidet før J. O. Stavs veg brukes til anleggstrafikk.",
+      "p": 9,
+      "quote": "FO1 og FO2 skal være opparbeidet før J. O. Stavs veg kan benyttes til anleggstrafikk."
+    },
+    {
+      "phase": "ig",
+      "text": "For tiltak i hensynssone H570_1-3 skal uttalelse fra byantikvaren følge søknad om igangsettingstillatelse.",
+      "p": 10,
+      "quote": "skal uttalelse fra byantikvaren vedlegges søknad om igangsettingstillatelse."
+    },
+    {
+      "phase": "ig",
+      "text": "Tiltaksplan for forurenset grunn, eller dokumentasjon på at grunnen er ren, skal være godkjent av forurensningsmyndigheten før tiltak igangsettes.",
+      "p": 10,
+      "quote": "Tiltak kan ikke igangsettes før dokumentasjon eller tiltaksplan er godkjent av forurensningsmyndigheten i Trondheim kommune."
+    },
+    {
+      "phase": "anlegg",
+      "text": "Under anleggsarbeidet skal Miljødirektoratets rapport om håndtering av løsmasser med fremmede arter følges.",
+      "p": 10,
+      "quote": "Miljødirektoratets rapport om håndtering av løsmasser med fremmede arter skal følges under anleggsarbeidet."
+    },
+    {
+      "phase": "ramme",
+      "text": "Søknad om rammetillatelse skal ha med klimaregnskap etter norsk standard for byggets levetid, inkludert riving av dagens bebyggelse.",
+      "p": 10,
+      "quote": "Ved søknad om rammetillatelse skal det følge klimaregnskap etter norsk standard, for bygningens levetid"
+    },
+    {
+      "phase": "ig",
+      "text": "Klimagassberegning for ferdig prosjektert bygg skal være utarbeidet før igangsettingstillatelse.",
+      "p": 10,
+      "quote": "Det må utarbeides klimagassberegning for ferdig prosjektert bygg før igangsettingstillatelse kan gis"
+    },
+    {
+      "phase": "bruk",
+      "text": "Endelig klimagassregnskap skal foreligge ved ferdigattest.",
+      "p": 10,
+      "quote": "samt endelig klimagassregnskap ved ferdigattest."
+    },
+    {
+      "phase": "anlegg",
+      "text": "Det skal etterstrebes en utslippsfri bygge- og anleggsperiode.",
+      "p": 10,
+      "quote": "Det skal etterstrebes utslippsfri bygge- og anleggsperiode."
+    },
+    {
+      "phase": "ig",
+      "text": "Plan for støytiltak for eksisterende støyfølsom bebyggelse skal foreligge før igangsettingstillatelse.",
+      "p": 10,
+      "quote": "Før det kan gis igangsettingstillatelse skal det foreligge en plan for ivaretakelse av støyforholdene"
+    },
+    {
+      "phase": "bruk",
+      "text": "Avbøtende støytiltak for eksisterende bebyggelse skal være etablert før brukstillatelse til tiltak innenfor felt T.",
+      "p": 10,
+      "quote": "skal være etablert før det kan gis brukstillatelse til tiltak innenfor felt T."
+    },
+    {
+      "phase": "bruk",
+      "text": "Renovasjonsløsning for helse- og velferdssenteret skal være ferdig før brukstillatelse innen feltet tjenesteyting.",
+      "p": 10,
+      "quote": "Løsning for renovasjon for helse- og velferdssenter skal være ferdigstilt før brukstillatelse innen feltet tjenesteyting kan gis."
+    },
+    {
+      "phase": "bruk",
+      "text": "Utendørs oppholdsareal skal være opparbeidet etter godkjent utomhusplan før brukstillatelse, eller i første påfølgende vekstsesong.",
+      "p": 11,
+      "quote": "Utendørs oppholdsareal skal være opparbeidet i tråd med godkjent utomhusplan før brukstillatelse til helse- og velferdssenteret kan gis"
+    },
+    {
+      "phase": "bruk",
+      "text": "o_BG1 - o_BG4 skal være opparbeidet etter godkjent utomhusplan før brukstillatelse, eller i første påfølgende vekstsesong.",
+      "p": 11,
+      "quote": "Offentlig blå/grønn struktur, o_BG1 - o_BG4, skal være opparbeidet i tråd med godkjent utomhusplan før brukstillatelse"
+    },
+    {
+      "phase": "bruk",
+      "text": "o_FO1, o_FO2, o_FO4, o_KV2, o_TO3 og o_GS skal være ferdig opparbeidet før brukstillatelse til helse- og velferdssenteret.",
+      "p": 11,
+      "quote": "o_FO1, o_FO2, o_FO4, o_KV2 og o_TO3 og o_GS skal være ferdig opparbeidet før brukstillatelse til helse- og velferdssenteret kan gis"
+    },
+    {
+      "phase": "bruk",
+      "text": "o_GG1 skal være opparbeidet før ferdigattest for helse- og velferdssenteret.",
+      "p": 11,
+      "quote": "o_GG1 skal være opparbeidet før ferdigattest for helse- og velferdssenteret kan gis."
+    },
+    {
+      "phase": "bruk",
+      "text": "Overvannsløsninger med terrengutforming for flomvei skal være ferdig opparbeidet før brukstillatelse.",
+      "p": 11,
+      "quote": "Overvannsløsninger med nødvendig terrengutforming for å ivareta flomvei skal være ferdig opparbeidet før brukstillatelse kan gis."
+    }
+  ],
+  "reviewed": "Gjennomgått for hånd 15.11.2026. Avvikene mellom dokumentene er tatt ut: for tvetydige (Thomas)."
+}
