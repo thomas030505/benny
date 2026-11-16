@@ -74,6 +74,6 @@ for (let l = 1; l <= LEVELS; l++) {
   });
   paths.push(`<path d="${d}" stroke-width="${l % 4 === 0 ? 2.2 : 1.3}"/>`);
 }
-const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" fill="none" stroke="#d9d6cc" stroke-linejoin="round" stroke-linecap="round">${paths.join("")}</svg>`;
+const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" fill="none" stroke="#d9d6cc" stroke-opacity="0.5" stroke-linejoin="round" stroke-linecap="round">${paths.join("")}</svg>`;
 writeFileSync("public/topo.svg", svg);
 console.log(`public/topo.svg: ${(svg.length / 1024).toFixed(0)} kB`);
