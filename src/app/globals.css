@@ -132,8 +132,6 @@ mark {
 .scroll {
   flex: 1;
   min-height: 0;
-  /* Høydekurver bak chatten. Bildet lages av scripts/topo.mjs og ligger fast mens innholdet ruller. */
-  background: url("/topo.svg") left bottom / cover no-repeat;
   overflow-y: auto;
   overscroll-behavior: contain;
   -webkit-overflow-scrolling: touch;
