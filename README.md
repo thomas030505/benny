@@ -94,7 +94,7 @@ bruker dem.
 ## Teknikk
 
 Next.js 16 og TypeScript på Vercel i Frankfurt. Claude Sonnet 5.5 gjennom Claude-API-et, kalt bare fra serveren.
-Maks 15 spørsmål per time og 40 per døgn per bruker, og 500 totalt per døgn. Appen lagrer ikke spørsmål eller svar;
+Maks 30 spørsmål per time og 60 per døgn per bruker, og 500 totalt per døgn. Appen lagrer ikke spørsmål eller svar;
 loggen har bare antall og svartid. Siden er skjult for søkemotorer.
 
 ```bash
@@ -147,7 +147,7 @@ avkuttede svar. Det koster rundt 25 kall.
 
 `ANTHROPIC_API_KEY` er nøkkelen, og den brukes bare på serveren. `ANTHROPIC_MODEL` er `claude-sonnet-5-5` som
 standard; sett den til `claude-haiku-5-5` i Vercel og deploy på nytt for å bytte. `DAILY_CAP` er global grense
-per døgn (500). `RATE_PER_HOUR` (15) og `RATE_PER_DAY` (40) er grensene per IP. Lokalt ligger de i `.env.local`.
+per døgn (500). `RATE_PER_HOUR` (30) og `RATE_PER_DAY` (60) er grensene per IP. Lokalt ligger de i `.env.local`.
 
 Modellene avviser `temperature`, så den sendes ikke. Tenkingen er slått av i stedet (`src/lib/ask.ts`).
 

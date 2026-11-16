@@ -9,8 +9,8 @@ import { createHash } from "node:crypto";
 import { Redis } from "@upstash/redis";
 
 export const LIMITS = {
-  perHour: Number(process.env.RATE_PER_HOUR ?? 15),
-  perDay: Number(process.env.RATE_PER_DAY ?? 40),
+  perHour: Number(process.env.RATE_PER_HOUR ?? 30),
+  perDay: Number(process.env.RATE_PER_DAY ?? 60),
   dailyCap: Number(process.env.DAILY_CAP ?? 500),
 };
 
